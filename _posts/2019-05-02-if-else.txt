@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Python Crash Course - Chapter 5 - If Statements"
+categories: misc
+---
+
+Today I learned about simple if statements, if-else statements, and if-elif-else chains.
