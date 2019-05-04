@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Python Crash Course - Chapter 5 - If Statements""
+title: "Python Crash Course - Chapter 5 - If Statements"
 categories: misc
 ---
 
