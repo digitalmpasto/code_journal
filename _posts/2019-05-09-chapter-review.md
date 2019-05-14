@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Crash Course - Review
+title: "Python Crash Course - Review"
 categories: misc
 ---
 
