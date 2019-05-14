@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Crash Course - Chapter 6 - Dictionaries" and final project for Research Fundamentals class
+title: "Python Crash Course - Chapter 6 - Dictionaries" and final project for Research Fundamentals class"
 categories: misc
 ---
 
