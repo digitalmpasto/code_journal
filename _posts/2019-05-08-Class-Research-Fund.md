@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fundamentals of Research and Reporting
+title: "Fundamentals of Research and Reporting"
 categories: misc
 ---
 
