@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hello World"
+title: "Hello World - Changing Directions"
 categories: misc
 ---
 
-This is my first post.
+Several months ago I began an explicit intention to begin learning how to code. I started Free Code Camp tutorials on HTML and CSS...in process.
