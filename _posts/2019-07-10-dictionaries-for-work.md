@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Crash Course - dictionaries for work
+title: "Python Crash Course - dictionaries for work"
 categories: misc
 ---
 
