@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Crash Course - dictionary exercises"
+title: "Python Crash Course - Chapter 7 - How the input() function works"
 categories: misc
 ---
 
