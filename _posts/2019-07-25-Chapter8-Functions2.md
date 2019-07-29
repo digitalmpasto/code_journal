@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Crash Course - Chapter 8 - Functions"
+title: "Python Crash Course - Chapter 8 - Functions 2"
 categories: misc
 ---
 
