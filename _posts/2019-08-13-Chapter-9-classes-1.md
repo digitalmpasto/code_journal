@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Crash Course - Chapter 9 - Classes 1
+title: "Python Crash Course - Chapter 9 - Classes 1"
 categories: misc
 ---
 
