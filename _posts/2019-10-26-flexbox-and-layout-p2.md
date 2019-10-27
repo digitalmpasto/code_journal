@@ -4,7 +4,7 @@ title: "The Web Developer Bootcamp - Lesson 100 - Flexbox and Layout 2"
 categories: misc
 ---
 
-This is the second lesson on Flexbox utilities. More of the same here - just some practice on pushing around elements within a flexbox. It makes it all very easy. You have to use it logically though. For example, you can do <...flex-row-reverse...> and then justify and align your content, but you have to keep in mind the fact that you initially reversed everything. This will impact your justify and align lines. So if, for example, you type <class"...flex-row-reverse justify-content-start align-items-end">, your 'start' point is going to be on the right, since you reversed it. Also, the elements are going to be in reverse order. It's going to push everything to the bottom right of the box.
+This is the second lesson on Flexbox utilities. More of the same here - just some practice on pushing around elements within a flexbox. It makes it all very easy. You have to use it logically though. For example, you can do <...flex-row-reverse...> and then justify and align your content, but you have to keep in mind the fact that you initially reversed everything. This will impact your justify and align lines. So if, for example, you type <class"...flex-row-reverse justify-content-start align-items-end...">, your 'start' point is going to be on the right, since you reversed it. Also, the elements are going to be in reverse order. It's going to push everything to the bottom right of the box.
 
 Also, when you add the utility <...flex-column...>, we're switching our main axis from left-to-right to top-to-bottom, creating a column of our elements.
 
