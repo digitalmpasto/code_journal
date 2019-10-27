@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Web Developer Bootcamp - Lesson 101, 102, and 103 - Navs and Flexbox, BS4 Grid, and Pattern Project, respectively"
+title: "The Web Developer Bootcamp - Lesson 101, 102, and 103: Navs and Flexbox, BS4 Grid, and Pattern Project, respectively"
 categories: misc
 ---
 
