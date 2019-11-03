@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Web Developer Bootcamp - Lessons 109: Museum of Candy Project"
+title: "The Web Developer Bootcamp - Lesson 109: Museum of Candy Project"
 categories: misc
 ---
 
