@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cool Beans Cafe project."
+title: "Cool Beans Cafe project"
 categories: misc
 ---
 
