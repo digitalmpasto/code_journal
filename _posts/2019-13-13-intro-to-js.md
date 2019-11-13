@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Web Developer Bootcamp - Lessons 113 - 118: Intro to Javascript
+title: "The Web Developer Bootcamp - Lessons 113 - 118: Intro to Javascript"
 categories: misc
 ---
 
