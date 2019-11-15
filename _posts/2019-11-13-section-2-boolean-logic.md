@@ -22,4 +22,4 @@ As a rule use === , as it is much safer and much more specific.
 true == "1"  //true  (any string number except "1" doesn't equal 'true')
 0 == false  //true
 null == undefined  //true
-Nan == NaN  //false  (NaN [Not a Number] - So Not a Number is not comparable to Not a Number. "One of the weirdest quirks of Javascript)
+Nan == NaN  //false  (NaN [Not a Number] - So Not a Number is not comparable to Not a Number. "One of the weirdest quirks of Javascript."
