@@ -6,7 +6,7 @@ categories: misc
 
 ## Logical Operators
 
-Went over operators AND (&&), OR (||), and NOT (!), and the results they produce. There were a couple of exercises that tripped me up a little bit, but I think I have a pretty good understanding of them nonetheless. It's just easy to make a mistake.
+Went over operators AND (&&), OR (\|\|), and NOT (!), and the results they produce. There were a couple of exercises that tripped me up a little bit, but I think I have a pretty good understanding of them nonetheless. It's just easy to make a mistake.
 
 Then learned about "truthy" and "falsey" values - values that aren't actually true or false, but are still "truthy" or "falsey" when evaluated in a boolean context. Every value in JS has an inherent "truthiness" or "falsiness" given to it by JS.
 You can find out the boolean assigned to "hello", for example', by negating it: !"hello". So if you do this in the console and get 'false' back, then the string "hello" is 'truthy' (which it is). If you want to make it easier and get the direct answer back, then double negate it: !!'hello".
