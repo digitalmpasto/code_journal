@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Web Developer Bootcamp - Intro to CSS-2
+title: "The Web Developer Bootcamp - Intro to CSS-2"
 categories: misc
 ---
 
