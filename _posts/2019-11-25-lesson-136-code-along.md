@@ -61,3 +61,5 @@ while (answer.indexOf("yes") === -1) {
 alert("Yay, we made it!");
 ```
 So when we assert that: while(answer.indexOf("yes") === -1), we are saying that "yes" *does not exist* anywhere within our answer. *Does not exist* is represented by -1.
+
+Remember that in this last example,  the while loop will keep "looping" as long as the answer does not contain "yes". Otherwise, if "yes" added to the input, we will break the loop, into our alert("Yay, we made it!");
