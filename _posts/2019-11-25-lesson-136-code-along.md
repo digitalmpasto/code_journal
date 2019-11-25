@@ -26,7 +26,7 @@ while (answer !== "yes" && answer !== "yeah") {
 alert("Yay, we made it!");
 ```
 
-Then we created a second version after these, which checks to see if "yes" is anywhere in the input. This is done with .indexOf. 
+Then we created a second version after these, which checks to see if "yes" is *anywhere* in the input. This is done with .indexOf. 
 To simplify, if we want to check where a letter is located within a string, we can use .indexOf:
 ```
 var str = "hello world"
@@ -60,4 +60,4 @@ while (answer.indexOf("yes") === -1) {
 
 alert("Yay, we made it!");
 ```
-So when we assert that: while(answer.indexOf("yes") === -1), we are saying that "yes" *does not exist* anywhere within our answer, which is represented by -1.
+So when we assert that: while(answer.indexOf("yes") === -1), we are saying that "yes" *does not exist* anywhere within our answer. *Does not exist* is represented by -1.
