@@ -32,7 +32,8 @@ while (count < 6) {
 }
 ```
 
-**Or take for example, this string:
+**Or take for example, a string:**
+
 *Printing each character in a string with a for loop.*
 ```
 var str = "hello";
