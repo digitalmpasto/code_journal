@@ -4,7 +4,7 @@ title: "The Web Developer Bootcamp - Lessons 138 - 141: For Loops"
 categories: misc
 ---
 
-Went through some **for loop** problems. 
+Went through some *for loop* problems. 
 
 With a for loop we have the basic structure:
 ```
@@ -14,15 +14,15 @@ for (init; condition; step) {
 
 The following are examples of some simple exercises:
 
-*Print numbers from 0 to 5 with a for loop*
+**Print numbers from 0 to 5 with a for loop**
 ```
 for (var count = 0; count < 6; count++); {
     console.log (count);
 }
 ```
-**For loops** are much like **while loops**, but they're shorter and the variable exists **inside** the loop. See the following for contrast:
+*For loops* are much like *while loops*, but they're shorter and the variable exists *inside* the loop. See the following for contrast:
 ```
-**print numbers from 0 to 5 with a while loop:**
+*print numbers from 0 to 5 with a while loop:*
 ```
 var count = 1;
 
@@ -32,9 +32,9 @@ while (count < 6) {
 }
 ```
 
-**Or take for example, a string:**
+*Or take for example, a string:*
 
-*Printing each character in a string with a for loop.*
+**Printing each character in a string with a for loop.**
 ```
 var str = "hello";
 
@@ -43,7 +43,7 @@ for (var i = 0; i < str.length; i++) {
 }
 ```
 
-**versus with a while loop:**
+*versus with a while loop:*
 ```
 var str = "hello";
 var count = 0;
@@ -54,4 +54,4 @@ while (count < str.length) {
 }
 ```
 
-**Note the variable i. You'll see this a lot as standard practice when a short variable is needed that doesn't have any other purpose than to live inside the loop.**
+*Note the variable i. You'll see this a lot as standard practice when a short variable is needed that doesn't have any other purpose than to live inside the loop.*
