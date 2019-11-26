@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Web Developer Bootcamp - Lessons 138 - 141: For Loops-2"
+title: "The Web Developer Bootcamp - Lesson 141: For Loops"
 categories: misc
 ---
 
