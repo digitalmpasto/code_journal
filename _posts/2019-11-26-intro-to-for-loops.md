@@ -15,7 +15,7 @@ for (init; condition; step) {
 
 The following are examples of some simple exercises:
 
-**Print numbers from 0 to 5 with a for loop**
+**Print numbers from 0 to 5 with a for loop:**
 ```
 for (var count = 0; count < 6; count++); {
     console.log (count);
@@ -35,7 +35,7 @@ while (count < 6) {
 
 *Or take for example, a string:*
 
-**Printing each character in a string with a for loop.**
+**Printing each character in a string with a for loop:**
 ```
 var str = "hello";
 
