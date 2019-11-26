@@ -11,6 +11,7 @@ With a for loop we have the basic structure:
 for (init; condition; step) {
     //run some code;
 }
+```
 
 The following are examples of some simple exercises:
 
