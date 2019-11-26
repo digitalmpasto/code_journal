@@ -22,7 +22,6 @@ for (var count = 0; count < 6; count++); {
 }
 ```
 *For loops* are much like *while loops*, but they're shorter and the variable exists *inside* the loop. See the following for contrast:
-```
 *print numbers from 0 to 5 with a while loop:*
 ```
 var count = 1;
