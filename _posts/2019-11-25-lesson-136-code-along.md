@@ -41,7 +41,7 @@ var str = "hello world"
 str.indexOf("world");
 6
 ```
-If you try using this method on a word that doesn't exit:
+If you try using this method on a word that doesn't exist:
 ```
 var str = "hello world"
 str.indexOf("yes");
