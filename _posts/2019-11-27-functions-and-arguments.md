@@ -4,7 +4,7 @@ title: "The Web Developer Bootcamp - Lesson 143 and 144: Introduction to Functio
 categories: misc
 ---
 
-##Lesson 143: Functions
+## Lesson 143: Functions
 
 Functions let us wrap bits of code up into reusable packages.
 They are a way to store many lines of code - somewhat like a variable which stores more bite-sized things.
@@ -30,7 +30,7 @@ To clear code in the console, write the function *clear()*.
 The naming convention for functions is camel-case.
 
 
-##Lesson 144: Arguments
+## Lesson 144: Arguments
 
 Often we want to write functions that take inputs.
 ```
@@ -38,11 +38,12 @@ function square(num) {
     console.log(num * num);
 }
 ```
-Now when we call *square()* we need to pass in a value.
-
+Now when we call* *square()* we need to pass in a value.
+```
 square(10);
 square(3);
 etc.
+```
 
 Another example:
 ```
@@ -53,4 +54,4 @@ function sayHello(name) {
 sayHello("Rusty");
 ```
 
-**console.log will print: Hello there Rusty!**
+*console.log will print: Hello there Rusty!*
