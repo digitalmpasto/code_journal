@@ -46,7 +46,8 @@ function factorial(num) {
     }
 }
 ```
-here, 2 replaces 1 as the variable because the first pass throught the loop produces 1 * 1, which is unnecessary. Also, the last *result* line is shortened.
+*here*, 2 replaces 1 as the variable because the first pass through the loop produces 1 * 1, which is unnecessary. Also, the last *result* line is shortened.
+
 
 One aspect that really tripped me up on this example problem, was that I didn't understand why
 var i = 1 in the for loop didn't reset the variable i back to 1. It turns out that I had forgotten that the first argument in the for loop is to *initialize* or *init*.
