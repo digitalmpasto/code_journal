@@ -15,7 +15,6 @@ function isEven(num) {
         return false;
     }
 }
-}
 ```
 
 Another, shorter way to do write this same function:
