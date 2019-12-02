@@ -17,7 +17,7 @@ function isEven(num) {
 }
 ```
 
-Another, shorter way to do write this same function:
+Another, shorter way to do write the same function:
 ```
 function isEven(num) {
     return num % 2 === 0;
