@@ -36,7 +36,9 @@ To stop setInterval from running continuously in the browser, we use the number 
  ```
   > clearInterval(2);
  ```
+ 
  _______________________
+
 
 Sometimes we want to run some code using setInterval, but we don't want to define a separate function ahead of time.
 Here, we can write in an anonymous function:
