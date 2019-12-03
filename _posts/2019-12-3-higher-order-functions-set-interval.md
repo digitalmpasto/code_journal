@@ -19,7 +19,7 @@ function sing() {
 
 setInterval(sing, 1000);
 ```
-Here the higher order function setInterval is passing our created function **sing** into itself.
+Here the higher order function setInterval is passing our created function *sing* into itself.
 The reason we *don't* include the parenthesis *()* after *sing* (sing()) is because setInterval() is calling *sing*, not us.
 We don't want to execute it - we want setInterval() to execute it.
 
