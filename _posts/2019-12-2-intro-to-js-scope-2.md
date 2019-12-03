@@ -39,7 +39,7 @@ function doMoreMath() {
     var y = 100;
     console.log(y);
 }
-'''
+```
 Adding *var* to the variable var y = 100 in the local scope, sets it as a new variable.
 
 So when we call doMoreMath():
