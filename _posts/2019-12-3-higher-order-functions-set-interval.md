@@ -19,7 +19,7 @@ function sing() {
 
 setInterval(sing, 1000);
 ```
-Here the higher order function setInterval is passing our created function *sing* into itself.
+Here the higher order function setInterval is passing our created function *sing** into itself.
 The reason we *don't* include the parenthesis *()* after *sing* (sing()) is because setInterval() is calling *sing*, not us.
 We don't want to execute it - we want setInterval() to execute it.
 
@@ -35,8 +35,11 @@ To stop setInterval from running continuously in the browser, we use the number 
  as such:
  ```
   > clearInterval(2);
- ```\
- _______________________\
+ ```
+ 
+ _______________________
+
+
 
 Sometimes we want to run some code using setInterval, but we don't want to define a separate function ahead of time.
 Here, we can write in an anonymous function:
