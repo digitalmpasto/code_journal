@@ -47,7 +47,7 @@ So when we call doMoreMath():
 doMoreMath()
 100
 ```
-are value is shown as 100.
+our value is shown as 100.
 
 and then if after calling doMoreMath(), we check y again:
 ```
