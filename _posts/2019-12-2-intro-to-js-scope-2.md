@@ -54,5 +54,5 @@ and then if after calling doMoreMath(), we check y again:
 y
 99
 ```
-we can see that y is still 99. We can see that var y = 100, as declared within the function doMoreMath(), created a new variable simply by placing *var* before y = 100.
+we can see that y is still 99. We can see that var y = 100, as declared within the function doMoreMath(), created a new variable simply by placing *var* before y = 100 (var y = 100).
 This variable exists only in the scope of doMoreMath().
