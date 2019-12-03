@@ -37,7 +37,8 @@ To stop setInterval from running continuously in the browser, we use the number 
   > clearInterval(2);
  ```
  <br>
- _______________________
+ 
+ <hr>
 
 <br>
 
