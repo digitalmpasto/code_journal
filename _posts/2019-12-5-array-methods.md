@@ -69,7 +69,6 @@ citrus = ["Orange", "Lemon"]
 ```
 Used slice to copy the second and third fruits by specifying where the new array starts (1) and ends (3).
 Slicing does not alter the original items in the array.
-```
 <br>
 You can also use slice() to copy an entire array.
 ```
