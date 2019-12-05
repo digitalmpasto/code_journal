@@ -16,7 +16,6 @@ Helpful when you don't know how many items are in the array and you'd like to ad
 var colors = ["red", "orange", "yellow"];
 colors.push("green");
 ```
-<br>
 ### Pop - to remove last item from an array.
 ```
 var colors = ["red", "orange", "yellow"];
