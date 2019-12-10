@@ -59,7 +59,7 @@ This bit of code:
         todos.push(newTodo);
     }
 ```
-requires you to first enter "new" when prompted, so that you can then push a new ToDo item to your list.
+requires you to first enter "new" when prompted, so that you can then push a new Todo item to your list.
 
 And this bit of code:
 ```
