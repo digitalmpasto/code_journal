@@ -44,8 +44,8 @@ console.log("OK, YOU QUITE THE APP");
 //which means the user has entered "quit"
 ```
 
-Within the while loop and if and else statements you'll see "quit", "list", and "new", respectively.
-These words are what you'll enter when prompted in the browser by the code: var input = prompt("What would you like to do?"), and directs 
+Within the while loop, and if and else statements you'll see "quit", "list", and "new", respectively (these words have no inherent functionality - they can be arbitrary - they are chosen by you).
+Thee words are what you'll enter when prompted in the browser by the code: var input = prompt("What would you like to do?"). They direct
 the action of the list item you will input after.
 
 So,
