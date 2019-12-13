@@ -17,6 +17,7 @@ arr.forEach(someFunction)
 
 `someFunction` - pass in a function.
 <br>
+
 So an example of the function to be passed in would look like this:
 ```
 var colors = ["red", "orange", "yellow", "green"];
