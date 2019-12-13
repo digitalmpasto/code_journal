@@ -27,4 +27,4 @@ colors.forEach(function(color) {
 ```
 NOTE: in the above, 'color' is a placeholder - you can call it whatever you want.
 
-So whatever you passin into the function colors.forEach(); will be called on each element.
+So whatever you pass into the function colors.forEach(); will be called on each element.
