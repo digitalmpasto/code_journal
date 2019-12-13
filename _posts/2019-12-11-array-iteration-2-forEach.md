@@ -23,7 +23,7 @@ var colors = ["red", "orange", "yellow", "green"];
 
 colors.forEach(function(color) {
     console.log(color);
-}
+});
 ```
 NOTE: in the above, 'color' is a placeholder - you can call it whatever you want.
 
