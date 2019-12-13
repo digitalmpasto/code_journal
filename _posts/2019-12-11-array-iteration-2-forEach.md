@@ -11,11 +11,11 @@ It takes a function as an argument:
 ```
 arr.forEach(someFunction)
 ```
-arr - whatever the name of the array is.
+`arr` - whatever the name of the array is.
 
-forEach - make sure to use camel-case.
+`forEach` - make sure to use camel-case.
 
-someFunction - pass in a function.
+`someFunction` - pass in a function.
 <br>
 So an example of the function to be passed in would look like this:
 ```
