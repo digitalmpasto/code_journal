@@ -63,7 +63,7 @@ and we don't have to access `colors[i]` inside of our code with a for loop, like
 ```
 var colors = ["red", "orange", "yellow", "green"];
 
-for(var i = 0); i < colors.length; i++) {
+for(var i = 0; i < colors.length; i++) {
     console.log(colors[i]);
 }
 ```
