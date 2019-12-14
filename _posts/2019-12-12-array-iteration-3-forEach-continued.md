@@ -88,7 +88,7 @@ colors.forEach(function(color){
 });
 ```
 
-**`while** - (rare in such a case)`
+**`while`** - (rare in such a case)
 ```
 var count = 0;
 
