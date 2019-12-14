@@ -46,7 +46,7 @@ and is calling it for us. That's what the `forEach()` is doing.*
 Behind the scenes `forEach` is doing this:
 ```
 printColor (colors[i])
-``
+```
 which starts at 0, and looks like this:
 ```
 printColor (colors[0])
