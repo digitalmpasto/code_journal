@@ -72,9 +72,9 @@ for(var i = 0; i < colors.length; i++) {
 
 ## Recap
 
-**`for`** vs. **forEach** vs. **while**
+**for** vs. **forEach** vs. **while**
 
-**for**
+**`for`**
 ```
 for(var i = 0; i < colors.length; i++) {
     console.log(colors[i]);
@@ -88,7 +88,7 @@ colors.forEach(function(color){
 });
 ```
 
-**`while`** (rare in such a case)
+**`while** - (rare in such a case)`
 ```
 var count = 0;
 
